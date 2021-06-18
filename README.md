@@ -1,4 +1,4 @@
-# Plant Leaf Identification
+# Flavia Leaf Identification Using SVM
 
 Identification of plants through plant leaves on the basis of their shape, color and texture features using digital image processing techniques.
 
